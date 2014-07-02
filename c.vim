@@ -471,7 +471,7 @@ unlet s:cpo_save
 "highlight Functions
 syn match cFunctions "\<[a-zA-Z_][a-zA-Z_0-9]*\>[^()]*)("me=e-2
 syn match cFunctions "\<[a-zA-Z_][a-zA-Z_0-9]*\>\s*("me=e-1
-hi cFunctions gui=NONE cterm=bold  ctermfg=22
+hi cFunctions gui=NONE cterm=bold  ctermfg=72 "36 is also good
 "hi cFunction        gui=NONE guifg=#B5A1FF
 "
  hi cMathOperator            ctermfg=196

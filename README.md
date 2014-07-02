@@ -30,3 +30,5 @@ Usage:
 Reference:
 ----
 All Xterm256 color names for vim: http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim
+
+Chinese edition tutorial: http://blog.csdn.net/namecyf/article/details/7787479
