@@ -3,13 +3,12 @@ vimConfig
 My favorite vim configuration , and color scheme for c/c++.
 Plugins are in the .vim directory.
 Configuration is in the .vimrc file.
-
-1. Change vim to .vim
-2. Change vimrc to .vimrc
-3. cp c.vim to /usr/share/vim/vim74/syntax/
-4. cp .vimrc to ~/
-5. cp -r .vim to ~/
-6. Install ctags:
+* Change vim to .vim
+* Change vimrc to .vimrc
+* p c.vim to /usr/share/vim/vim74/syntax/
+* cp .vimrc to ~/
+* cp -r .vim to ~/
+* Install ctags:
 ```sh    
 $ tar -xzvf ctags-5.6.tar.gz
 $ cd ctags-5.6
