@@ -3,6 +3,10 @@ vimConfig
 My favorite vim configuration , and color scheme for c/c++.
 Plugins are in the .vim directory.
 Configuration is in the .vimrc file.
+
+Installation
+----
+* Clone this repo in any directory.
 * Change vim to .vim
 * Change vimrc to .vimrc
 * p c.vim to /usr/share/vim/vim74/syntax/
@@ -15,7 +19,6 @@ $ cd ctags-5.6
 $ make
 $ sudo make install  
 ```
-
 Usage:
 ----
 * 1.Ctags:
@@ -26,4 +29,4 @@ Usage:
 
 Reference:
 ----
-All Xterm256 coloar names for vim: http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim
+All Xterm256 color names for vim: http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim
