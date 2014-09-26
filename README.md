@@ -9,13 +9,14 @@ Installation
 * Clone this repo in any directory.
 * Change vim to .vim
 * Change vimrc to .vimrc
-* p c.vim to /usr/share/vim/vim74/syntax/
+* cp c.vim to /usr/share/vim/vim74/syntax/
 * cp .vimrc to ~/
 * cp -r .vim to ~/
 * Install ctags:
 ```sh    
 $ tar -xzvf ctags-5.6.tar.gz
 $ cd ctags-5.6
+$ ./configure
 $ make
 $ sudo make install  
 ```
